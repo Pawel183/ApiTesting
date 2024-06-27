@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41c01dc4-a766-4a2f-8967-cf6f117a4aeb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CardsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FormatsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RateLimitTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SetsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TypesTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2hUmBLlW25e5GW9otfHijKCqmc7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.ApiTest.executor": "Run",
+    "JUnit.ApiTest.firstTest.executor": "Run",
+    "JUnit.ApiTest.peopleTesT.executor": "Run",
+    "JUnit.ApiTest.peopleTest.executor": "Run",
+    "JUnit.ApiTest.planetTest (1).executor": "Run",
+    "JUnit.ApiTest.planetTest.executor": "Run",
+    "JUnit.CardTests.cardTest (1).executor": "Run",
+    "JUnit.CardTests.cardTest.executor": "Run",
+    "JUnit.CardTests.executor": "Run",
+    "JUnit.CardTests.getAllCards.executor": "Run",
+    "JUnit.CardTests.getAllCardsByForeignName.executor": "Run",
+    "JUnit.CardTests.getAllCardsWithHeaderCheck.executor": "Run",
+    "JUnit.CardTests.getCardById.executor": "Run",
+    "JUnit.CardTests.getCardByInvalidId.executor": "Run",
+    "JUnit.CardTests.getCardByName (1).executor": "Run",
+    "JUnit.CardTests.getCardByName.executor": "Run",
+    "JUnit.CardTests.getCardsByInvalidForeignName.executor": "Run",
+    "JUnit.CardsTests.executor": "Run",
+    "JUnit.CardsTests.testPagination.executor": "Run",
+    "JUnit.FormatsTests.executor": "Run",
+    "JUnit.RateLimitTests.executor": "Run",
+    "JUnit.SetTests.getSetByCode.executor": "Run",
+    "JUnit.SetsTests.checkIfSetHasBoosters.executor": "Run",
+    "JUnit.SetsTests.executor": "Run",
+    "JUnit.SetsTests.getBoostersBySetId.executor": "Run",
+    "JUnit.SetsTests.getSetByCode.executor": "Run",
+    "JUnit.TypesTests.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/OneDrive - Uniwersytet im. Adama Mickiewicza w Poznaniu/Materiały Studia/Semestr 4/Testowanie/API Testing/ApiTests",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/User/Desktop/Studia/Java/API Testing/untitled/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.CardsTests">
+    <configuration name="CardsTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ApiTests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CardsTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardsTests.testPagination" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ApiTests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CardsTests" />
+      <option name="METHOD_NAME" value="testPagination" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FormatsTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ApiTests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FormatsTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RateLimitTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ApiTests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RateLimitTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypesTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ApiTests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TypesTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ApiTests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ApiTests" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CardsTests" />
+        <item itemvalue="JUnit.CardsTests.testPagination" />
+        <item itemvalue="JUnit.RateLimitTests" />
+        <item itemvalue="JUnit.FormatsTests" />
+        <item itemvalue="JUnit.TypesTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+        <option value="jdk-22-openjdk-22-4caba194b151-f504ca98" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41c01dc4-a766-4a2f-8967-cf6f117a4aeb" name="Changes" comment="" />
+      <created>1717656897763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717656897763</updated>
+      <workItem from="1717656898985" duration="1663000" />
+      <workItem from="1719489644215" duration="677000" />
+      <workItem from="1719490446139" duration="7564000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
