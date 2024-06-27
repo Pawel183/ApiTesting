@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41c01dc4-a766-4a2f-8967-cf6f117a4aeb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CardsTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FormatsTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RateLimitTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SetsTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TypesTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +63,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/User/OneDrive - Uniwersytet im. Adama Mickiewicza w Poznaniu/Materiały Studia/Semestr 4/Testowanie/API Testing/ApiTests",
     "node.js.detected.package.eslint": "true",
@@ -91,7 +79,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.CardsTests">
+  <component name="RunManager" selected="JUnit.CardsTests.testSorting">
     <configuration name="CardsTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ApiTests" />
       <option name="PACKAGE_NAME" value="" />
@@ -106,6 +94,16 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="CardsTests" />
       <option name="METHOD_NAME" value="testPagination" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardsTests.testSorting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ApiTests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CardsTests" />
+      <option name="METHOD_NAME" value="testSorting" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -129,15 +127,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypesTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ApiTests" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TypesTests" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="ApiTests" />
       <method v="2">
@@ -153,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CardsTests.testSorting" />
         <item itemvalue="JUnit.CardsTests" />
-        <item itemvalue="JUnit.CardsTests.testPagination" />
         <item itemvalue="JUnit.RateLimitTests" />
+        <item itemvalue="JUnit.CardsTests.testPagination" />
         <item itemvalue="JUnit.FormatsTests" />
-        <item itemvalue="JUnit.TypesTests" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +168,7 @@
       <updated>1717656897763</updated>
       <workItem from="1717656898985" duration="1663000" />
       <workItem from="1719489644215" duration="677000" />
-      <workItem from="1719490446139" duration="7564000" />
+      <workItem from="1719490446139" duration="9609000" />
     </task>
     <servers />
   </component>

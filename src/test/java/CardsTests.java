@@ -152,7 +152,7 @@ public class CardsTests {
     @Test
     public void testSorting() {
         List<String> cardNames  = given()
-                .queryParam("orderBy", "name")
+                .queryParam("OrderBy", "name")
                 .when().get("/cards")
                 .then()
                 .statusCode(200)
